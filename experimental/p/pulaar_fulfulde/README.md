@@ -1,4 +1,4 @@
-pulaar-fulfulde_2021 keyboard
+Pulaar-Fulfulde keyboard
 ==============
 
 © 2021 PULAAR-FULFULDE.ORG
@@ -8,7 +8,7 @@ Version 1.0
 Description
 -----------
 
-Tappirde Pulaar-Fulfulde_2021 created by Ibrahima Malal Sarr
+Tappirde Pulaar-Fulfulde 2021 created by Ibrahima Malal Sarr
 
 Links
 -----
